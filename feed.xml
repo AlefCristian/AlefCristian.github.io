@@ -3,26 +3,28 @@
   <channel>
     <title>alefcristian.github.io</title>
     <description>Desenvolvimento de Sistemas</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Mar 2021 15:11:06 -0300</pubDate>
-    <lastBuildDate>Sat, 06 Mar 2021 15:11:06 -0300</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Mar 2021 00:05:30 -0300</pubDate>
+    <lastBuildDate>Sat, 27 Mar 2021 00:05:30 -0300</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>We all wait for summer</title>
-        <description>&lt;p&gt;This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that &lt;a href=&quot;#&quot;&gt;education should equip&lt;/a&gt; them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+        <title>Catálogos Online</title>
+        <description>&lt;p&gt;Esta começando seu negócio e precisa de um catalogo online para poder apresentar seus produtos para seus cliente?&lt;/p&gt;
 
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
+&lt;p&gt;Podemos te ajudar com isso, sem custo de hospedagem, claro que o ideal seria um e-commerce completo, mas para quem está dando os primeiros passos, um catalógo online pode te ajudar com seus primeiros clientes .&lt;/p&gt;
+
+&lt;p&gt;Veja como ficou um dos nosso trabalho.&lt;/p&gt;
+&lt;h3 id=&quot;mabelle-official&quot;&gt;Mabelle Official&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://mabelleofficial.github.io&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://mabelleofficial.github.io/images/mabelle.png&quot; alt=&quot;MabelleOfficial&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
-        <guid isPermaLink="true">/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
+        <pubDate>Fri, 26 Mar 2021 00:00:00 -0300</pubDate>
+        <link>http://0.0.0.0:4000/servi%C3%A7os/2021/03/26/catalogos-online.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/servi%C3%A7os/2021/03/26/catalogos-online.html</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>serviços</category>
         
       </item>
     
@@ -42,8 +44,8 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>/jekyll/tutorial/2018/01/12/tree-of-codes.html</link>
-        <guid isPermaLink="true">/jekyll/tutorial/2018/01/12/tree-of-codes.html</guid>
+        <link>http://0.0.0.0:4000/jekyll/tutorial/2018/01/12/tree-of-codes.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/tutorial/2018/01/12/tree-of-codes.html</guid>
         
         
         <category>Jekyll</category>
@@ -67,8 +69,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>/jekyll/tutorial/2018/01/12/red-riding.html</link>
-        <guid isPermaLink="true">/jekyll/tutorial/2018/01/12/red-riding.html</guid>
+        <link>http://0.0.0.0:4000/jekyll/tutorial/2018/01/12/red-riding.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/tutorial/2018/01/12/red-riding.html</guid>
         
         
         <category>Jekyll</category>
@@ -78,7 +80,32 @@
       </item>
     
       <item>
-        <title>Powerful things you can do with the Markdown editor</title>
+        <title>Mídias Sociais</title>
+        <description>&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
+
+&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+
+&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+
+&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
+        <link>http://0.0.0.0:4000/servicos/2018/01/12/midias-sociais.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/servicos/2018/01/12/midias-sociais.html</guid>
+        
+        
+        <category>servicos</category>
+        
+      </item>
+    
+      <item>
+        <title>E-commerce</title>
         <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
 
 &lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
@@ -121,41 +148,24 @@
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>/jekyll/tutorial/2018/01/12/powerful-things-markdown-editor.html</link>
-        <guid isPermaLink="true">/jekyll/tutorial/2018/01/12/powerful-things-markdown-editor.html</guid>
+        <link>http://0.0.0.0:4000/servicos/2018/01/12/ecommerce.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/servicos/2018/01/12/ecommerce.html</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>servicos</category>
         
       </item>
     
       <item>
-        <title>Is Intelligence Enough</title>
-        <description>&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
+        <title>Desenvolvimento de Sistemas</title>
+        <description>&lt;p&gt;Tenha um sistema personalizado para sua empresa que busca agilidade e inovação em seus negócio.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>/jekyll/tutorial/2018/01/12/is-intelligence-enough.html</link>
-        <guid isPermaLink="true">/jekyll/tutorial/2018/01/12/is-intelligence-enough.html</guid>
+        <link>http://0.0.0.0:4000/servi%C3%A7os/2018/01/12/desenvolvimento-de-app.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/servi%C3%A7os/2018/01/12/desenvolvimento-de-app.html</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>serviços</category>
         
       </item>
     
@@ -177,8 +187,8 @@
 
 </description>
         <pubDate>Thu, 11 Jan 2018 00:00:00 -0200</pubDate>
-        <link>/jekyll/tutorial/2018/01/11/markup-example.html</link>
-        <guid isPermaLink="true">/jekyll/tutorial/2018/01/11/markup-example.html</guid>
+        <link>http://0.0.0.0:4000/jekyll/tutorial/2018/01/11/markup-example.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/tutorial/2018/01/11/markup-example.html</guid>
         
         
         <category>Jekyll</category>
